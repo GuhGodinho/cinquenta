@@ -1,0 +1,53 @@
+@import url('../style.css');
+
+#header.page-home {
+	background-image: url("../../img/laptop.jpg"); 
+}
+
+#how-it-work h2 {
+	color: rgb(130,130,130);
+}
+
+#customers {
+	background-color: rgb(242,242,242);
+}
+
+#customers .btn {
+	margin-top: 50px;
+	background-color: rgb(220,220,220);
+	color: rgb(130,130,130);
+}
+
+#customers .btn:hover {
+	background-color: rgb(130,130,130);
+	color: rgb(220,220,220);
+}
+
+#customers .btn .material-icons {
+	vertical-align: middle;
+}
+
+#customers .container {
+	max-width: 1200px;
+}
+
+#customers h2 {
+	color: rgb(130,130,130);
+}
+
+#team {
+	background-color: rgb(51,177,151);
+}
+
+#team p, h2 {
+	color: rgb(255,255,255);
+}
+
+#team h2:after {
+	background-color: rgb(255,255,255);
+}
+
+#team .img-box-round {
+	width: 100px;
+	height: 100px;
+}

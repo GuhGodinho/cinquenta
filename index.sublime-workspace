@@ -1,0 +1,604 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"r",
+				"rgb()\tcolor"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"column-rule",
+				"column-rule-style\tproperty"
+			],
+			[
+				"colu",
+				"column-gap\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"anim",
+				"animation-name\tproperty"
+			],
+			[
+				"b",
+				"border-color\tproperty"
+			],
+			[
+				"bk",
+				"background-color\tproperty"
+			],
+			[
+				"ani",
+				"animation-delay\tproperty"
+			],
+			[
+				"anima",
+				"animation-delay\tproperty"
+			],
+			[
+				"50px",
+				"50px"
+			],
+			[
+				"border-bo",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"border-bot",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"wor",
+				"word-break\tproperty"
+			],
+			[
+				"text-o",
+				"text-overflow\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bord",
+				"border-image\tproperty"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"css",
+				"CSS3"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"onmo",
+				"onmouseover\tAttr"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"onkey",
+				"onkeyup\tAttr"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"i",
+				"iframe\tTag"
+			],
+			[
+				"get",
+				"getAudio"
+			],
+			[
+				"ge",
+				"getAudio"
+			],
+			[
+				"min",
+				"minute"
+			],
+			[
+				"mi",
+				"minute"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"time",
+				"time"
+			],
+			[
+				"list",
+				"listVideo"
+			],
+			[
+				"set",
+				"setTable"
+			],
+			[
+				"border-co",
+				"border-collapse\tproperty"
+			],
+			[
+				"ma",
+				"max-height\tproperty"
+			],
+			[
+				"O",
+				"objVideo"
+			],
+			[
+				"LIS",
+				"listVideo"
+			],
+			[
+				"lis",
+				"listVideo"
+			],
+			[
+				"L",
+				"listVideo"
+			],
+			[
+				"o",
+				"objvideo"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"bot",
+				"button\tTag"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"dat",
+				"datalist\tTag"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"sam",
+				"small\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"tl",
+				"title"
+			],
+			[
+				"titl",
+				"title"
+			],
+			[
+				"men",
+				"Menu"
+			],
+			[
+				"a",
+				"align-items\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"c",
+				"content\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Front/Projeto/index.html",
+		"/C/Front/Projeto/css/styles.css",
+		"/C/Front/Projeto/css/icons.css",
+		"/C/Front/Projeto/css/grid.css",
+		"/C/Front/Projeto/css/buttons.css",
+		"/C/Front/Projeto/css/reset.css",
+		"/C/Front/Projeto/css/typography.css",
+		"/C/Front/Projeto/quem-somos.html",
+		"/C/Front/JavaScript/variavel_string.html",
+		"/C/Front/JavaScript/variavel.html",
+		"/C/Front/JavaScript/index.html",
+		"/C/Front/CSS3/css/style.css",
+		"/C/Front/CSS3/css/examples.css",
+		"/C/Front/CSS3/js/anim.js",
+		"/C/Front/CSS3/index.html",
+		"/C/Front/CSS3/examples.css",
+		"/C/Front/CSS3/anim.js",
+		"/C/Front/CSS3/style.css",
+		"/C/Front/CSS3/js.js.erb",
+		"/C/Front/CSS3/exemple.css",
+		"/C/Front/CSS3/botões.css",
+		"/C/Front/CSS3/01-seletores.html",
+		"/C/Front/CSS3/css.pratico.html",
+		"/C/Front/Multimidia/audio/audio.js",
+		"/C/Front/Multimidia/Css/style.css",
+		"/C/Front/Multimidia/Js/search.js",
+		"/C/Front/Multimidia/index.html",
+		"/C/Front/Multimidia/Js/video.js",
+		"/C/Front/Multimidia/Js/video",
+		"/C/Front/Multimidia/index",
+		"/C/Front/hmtl5/css/style.css",
+		"/C/Front/hmtl5/Form.html",
+		"/C/Front/hmtl5/index.html",
+		"/C/Front/curso/aula 8/jc_css.html",
+		"/C/Front/curso/aula 10/index.html",
+		"/C/Front/curso/aula 6/formulario.html",
+		"/C/Front/curso/aula 9/index.html",
+		"/C/Front/curso/aula 9/table.html",
+		"/C/Front/curso/aula 8/js/app",
+		"/C/Front/curso/aula 8/css/style.css",
+		"/C/Front/curso/aula 7/list.html",
+		"/C/Front/curso/aula 8/index.html",
+		"/C/Front/curso/aula 8/js_css.html",
+		"/C/Front/curso/aula 8/css/style.html",
+		"/C/Front/curso/aula7.html",
+		"/C/Front/curso/formulário.html",
+		"/C/Front/curso/aula 3/Atribuos.html",
+		"/C/Front/curso/Doc.html",
+		"/C/Front/curso/sampla.html",
+		"/C/Front/curso/index.html",
+		"/C/Front/curso/spinner - Loading.html",
+		"/C/Front/curso/Hamburguer animado.html",
+		"/C/Front/curso/jordana.html",
+		"/C/Front/curso/index2.html",
+		"/C/Front/curso/index2"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
