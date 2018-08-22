@@ -8,6 +8,7 @@
 body {
 	font-family: 'Comfortaa', cursive;
 	color: rgb(51,177,151);
+	line-height: 25px;
 }
 
 
@@ -38,7 +39,7 @@ body {
 }
 
 #header{
-	background: #000 no-repeat;
+	background: #000 no-repeat fixed;
 	background-size: cover;
 	color: rgb(51,177,151);
 	width: 100%;

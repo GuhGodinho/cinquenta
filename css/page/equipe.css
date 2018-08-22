@@ -1,0 +1,14 @@
+@import url('../styles.css');
+
+#header.page-equipe {
+	background-image: url("../../img/clientes/background-equipe.jpg"); 
+} 
+
+#team {
+	background-color: #f3f0e7;
+}
+
+#team .img-box-round {
+	width: 100px;
+	height: 100px;
+}
